@@ -1,1 +1,2 @@
-# chehak1501.github.io
+# Hi, I'm Chehak!
+This is my GitHub Pages website.
